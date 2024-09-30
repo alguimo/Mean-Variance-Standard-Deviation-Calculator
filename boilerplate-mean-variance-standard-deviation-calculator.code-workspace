@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "boilerplate-mean-variance-standard-deviation-calculator",
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "freeCodeCamp Dark Theme"
+	}
+}
